@@ -219,7 +219,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS Migration Hub.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: c
     </details>
 
 22. A company is trying to analyze the costs applied to their AWS account recently. Which of the following provides them the most granular data about their AWS costs and usage?
